@@ -1,0 +1,8 @@
+# Compiled Executables & Objects
+simple-c-shell
+*.o
+*.obj
+*.exe
+
+# Personal repository guide & resume notes
+GITHUB_PUSH_GUIDE.md
